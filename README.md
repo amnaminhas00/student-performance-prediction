@@ -1,4 +1,3 @@
-Description
 This project predicts students’ final grades (G3) based on various factors such as study time, previous scores, family support, and activities. It demonstrates data cleaning, exploratory data analysis (EDA), feature engineering, and machine learning using Python.
 
 Dataset
